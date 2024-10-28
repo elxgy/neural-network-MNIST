@@ -23,8 +23,8 @@ The main steps of the code are:
 
 1. **Data Preprocessing**: The MNIST dataset is loaded and preprocessed, including normalizing the pixel values and applying transformations (like converting to tensors).
 2. **Model Definition**: A simple neural network model is defined, consisting of an input layer, two hidden layers with ReLU activations, and an output layer with a Sigmoid activation.
-3. **Training**: The model is trained for 10 epochs using the Adam optimizer and Cross-Entropy loss function. Training and testing losses, as well as test accuracy, are tracked and stored.
-4. **Visualization**: The training and testing losses, as well as the test accuracy, are plotted using Matplotlib.
+3. **Training**: The model is trained for 10 epochs using the Adam optimizer and Cross-Entropy loss function. Training, testing losses as well as test accuracy are tracked and stored.
+4. **Visualization**: The training and testing losses, as well as the test accuracy are plotted using Matplotlib.
 
 The key functions in the code are:
 
