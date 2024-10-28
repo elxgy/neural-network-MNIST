@@ -1,5 +1,3 @@
-Here is the content transformed into Markdown format:
-
 # MNIST Classifier with PyTorch
 
 ## Dependencies
